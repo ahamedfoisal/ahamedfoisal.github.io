@@ -2,6 +2,10 @@
 permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
+# This is my chatGPT generated and self-edited Digital Learning Narrative
+
+Title : Digital Learning Narrative
+
 
 As a 20 year old university student studying digital humanities, I am constantly learning about how to effectively utilize technology in my daily and academic life. Growing up in the digital age, I have always been familiar with various social media platforms and online tools for content creation. However, I never truly understood the potential of technology for research data management, data manipulation, and analysis until I started taking this introductory course in digital humanities.
 
