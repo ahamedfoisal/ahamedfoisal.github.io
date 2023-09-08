@@ -2,7 +2,7 @@
 permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
-# This is my chatGPT generated and self-edited Digital Learning Narrative
+# This is my chatGPT generated and self-edited Digital Literacy Narrative
 
 
 
