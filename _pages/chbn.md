@@ -51,14 +51,14 @@ In the case of American culture, the number of pieces acquired was never more th
 
 While making the word cloud, the English stopwords package was used. Furthermore, words like Nan, which signal the absence of information for a field, were also removed from the cloud.
 
-<img src="/assets/images/Japanese.png" style="zoom:50%"/>
+<img src="/assets/images/Japanese.png" style="zoom:100%"/>
 
 While analyzing the Japanese culture, the word cloud shows that the most used word is "series", indicating that most of the Japanese culture art pieces in the museum are a part of a series. Furthermore, the frequent presence of words like "Tale" and "Poem" also signify that the HAM mostly focused on art pieces that told a story from the Japanese culture.
 
-<img src="/assets/images/American.png" style="zoom:50%"/>
+<img src="/assets/images/American.png" style="zoom:100%"/>
 
 In the case of the American culture, it is very visible that the most used words are simply the name of the locations. This signifies that the American culture enthusiasts used to name their pieces in accordance with the places where they were created.
 
-<img src="/assets/images/Spanish.png" style="zoom:50%"/>
+<img src="/assets/images/Spanish.png" style="zoom:100%"/>
 
 In the Spanish word cloud, we can see that the words standing out are "Woman", "Saint", "Man", etc. This is probable from the presence of Christian influence in the Spanish culture where the woman most possibly refers to Mother Mary.
