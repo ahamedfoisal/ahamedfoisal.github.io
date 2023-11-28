@@ -62,3 +62,5 @@ In the case of the American culture, it is very visible that the most used words
 <img src="/assets/images/Spanish.png" style="zoom:100%"/>
 
 In the Spanish word cloud, we can see that the words standing out are "Woman", "Saint", "Man", etc. This is probable from the presence of Christian influence in the Spanish culture where the woman most possibly refers to Mother Mary.
+
+<iframe src="/assets/kepler.gl.html" width="800" height="600"></iframe>
