@@ -1,5 +1,5 @@
 ---
-title: "Assignment 3 Spatial Data"
+title: "Final Portfolio"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -14,7 +14,7 @@ tags:
 
 # Project Summary
 
-<img src="/assets/images/images/summary_slide.png" style="zoom:100%"/>
+<img src="/assets/images/summary_slide.png" style="zoom:100%"/>
 
 # Unproject Plan
 
