@@ -38,7 +38,7 @@ const Contact = () => {
         success: true,
         message: "Thank you! Your message has been sent successfully.",
       });
-    } catch (error) {
+    } catch {
       setSubmitStatus({
         success: false,
         message: "Oops! Something went wrong. Please try again later.",
