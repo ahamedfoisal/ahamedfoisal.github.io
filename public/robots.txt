@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ahamedfoisal.vercel.app
+
+# Sitemaps
+Sitemap: https://ahamedfoisal.vercel.app/sitemap.xml 
